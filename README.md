@@ -4,7 +4,8 @@ This dataset contains grocery sales data inspired by Blinkit, an instant deliver
 
 📊 Key Features
 
-Product-level details including category, type, and pricing
+Product-level details including category, type, and pricing.
+
 Outlet information such as size, location type, and establishment year
 Sales metrics useful for trend analysis and performance tracking
 Structured format compatible with Power BI data modeling
